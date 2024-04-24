@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/BlazorApp/BlazorApp.csproj",
+      "projectUniqueName": "/workspaces/blazor-container-image-demo/BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "/workspaces/BlazorApp/BlazorApp.csproj",
+      "projectPath": "/workspaces/blazor-container-image-demo/BlazorApp.csproj",
       "packagesPath": "/home/vscode/.nuget/packages/",
-      "outputPath": "/workspaces/BlazorApp/obj/",
+      "outputPath": "/workspaces/blazor-container-image-demo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vscode/.nuget/NuGet/NuGet.Config"

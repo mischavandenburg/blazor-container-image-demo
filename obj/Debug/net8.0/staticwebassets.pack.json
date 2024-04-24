@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "/workspaces/BlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
+      "Id": "/workspaces/blazor-container-image-demo/obj/Debug/net8.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
       "PackagePath": "staticwebassets/BlazorApp.bundle.scp.css"
     },
     {
-      "Id": "/workspaces/BlazorApp/wwwroot/app.css",
+      "Id": "/workspaces/blazor-container-image-demo/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },
     {
-      "Id": "/workspaces/BlazorApp/wwwroot/bootstrap/bootstrap.min.css",
+      "Id": "/workspaces/blazor-container-image-demo/wwwroot/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/workspaces/BlazorApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Id": "/workspaces/blazor-container-image-demo/wwwroot/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/workspaces/BlazorApp/wwwroot/favicon.png",
+      "Id": "/workspaces/blazor-container-image-demo/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
     {
